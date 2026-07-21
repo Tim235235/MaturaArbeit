@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "DOM Reader",
+  "version": "1.0",
+  "description": "Reads webpage DOM",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

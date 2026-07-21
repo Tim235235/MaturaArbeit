@@ -73,7 +73,5 @@ block = Blocker()
 server = Server(block) 
 server.connect() 
  
-#['CONNECT', 'www.google.com:443', 'HTTP/1.1\r\nHost:', 'www.google.com:443\r\nProxy-Connection:', 'keep-alive\r\nUser-Agent:', 'Mozilla/5.0', '(Macintosh;', 'Intel', 'Mac', 'OS', 'X', '10_15_7)', 'AppleWebKit/537.36', '(KHTML,', 'like', 'Gecko)', 'Chrome/148.0.0.0', 'Safari/537.36', 'OPR/132.0.0.0', '(Edition', 'std-2)\r\n\r\n'] 
-#Error handling client: invalid literal for int() with base 10: 'i.ytimg.com' 
  
  
