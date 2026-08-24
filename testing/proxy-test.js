@@ -19,7 +19,7 @@ try{data+=(await r.body()).length}catch{}
 
 const start=Date.now();
 
-await page.goto("https://edition.cnn.com/",{waitUntil:"load"});
+await page.goto("",{waitUntil:"load"});
 
 await page.waitForTimeout(10000);
 
