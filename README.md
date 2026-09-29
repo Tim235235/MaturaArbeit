@@ -22,7 +22,7 @@ Proxybasierter Adblocker
 2. Browser mit konfigurierbarem Proxy
 
 --Durchführung--
-1. Den Proxy auf IP-Adresse 127.0.0.1 und Port 8080 konfigurieren.
+1. Browser-Proxy auf IP-Adresse 127.0.0.1 und Port 8080 konfigurieren.
 2. Den Proxy-Blocker starten.
 3. testing/proxy-test.js ausführen.
 4. Die ausgegebenen Messwerte dokumentieren.
