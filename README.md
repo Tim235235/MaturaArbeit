@@ -18,7 +18,7 @@ DOM-basierter Adblocker
 Proxybasierter Adblocker
 
 --Voraussetzungen--
-1.Python mit den im Projekt verwendeten Bibliotheken
+1. Python mit den im Projekt verwendeten Bibliotheken
 2. Browser mit konfigurierbarem Proxy
 
 --Durchführung--
